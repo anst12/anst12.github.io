@@ -20,7 +20,7 @@ title                    : "anst12"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sung Tae An"
-description              : "Political Scientist, Data Analysist"
+description              : #"Political Scientist, Data Analyst"
 url                      : "https://anst12.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/anst12"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Sung Tae An"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Political Scientist, /n Data Analyst"
+  bio              : "Political Scientist, Data Analyst"
   location         : "Seoul, South Korea"
   email            : "anst12@snu.ac.kr"
   links:
