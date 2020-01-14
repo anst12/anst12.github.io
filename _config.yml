@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : disqus
   disqus:
-    shortname            : "anst12.github.io"
+    shortname            : "anst12"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -115,7 +115,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: anst12@snu.ac.kr
+      url: # anst12@snu.ac.kr
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
